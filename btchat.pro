@@ -1,3 +1,12 @@
+# sudo apt-get install libqt5bluetooth5 qtconnectivity5-dev
+# libqt5nfc5_5.12.8-0ubuntu1_arm64.deb
+# qtconnectivity5-dev_5.12.8-0ubuntu1_arm64.deb
+# libqt5bluetooth5_5.12.8-0ubuntu1_arm64.deb
+# libqt5bluetooth5-bin_5.12.8-0ubuntu1_arm64.deb
+
+# https://forum.qt.io/topic/114503/missing-cap_net_admin-permission/2
+# /etc/dbus-1/system.d/bluetooth.conf
+
 TEMPLATE = app
 TARGET = btchat
 

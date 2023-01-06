@@ -54,7 +54,8 @@
 #include <QtBluetooth/qbluetoothsocket.h>
 
 //! [Service UUID]
-static const QLatin1String serviceUuid("e8e10f95-1a70-4b27-9ccf-02010264e9c8");
+//static const QLatin1String serviceUuid("e8e10f95-1a70-4b27-9ccf-02010264e9c8");
+static const QLatin1String serviceUuid("00001101-0000-1000-8000-00805F9B34FB");
 //! [Service UUID]
 
 ChatServer::ChatServer(QObject *parent)
