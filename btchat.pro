@@ -33,3 +33,6 @@ FORMS = \
 
 target.path = $$[QT_INSTALL_EXAMPLES]/bluetooth/btchat
 INSTALLS += target
+
+DISTFILES += \
+    bluetooth_setting.sh
